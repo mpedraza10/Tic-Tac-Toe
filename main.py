@@ -1,6 +1,8 @@
-# Tic-Tac-Toe in terminal game 
-# Miguel Pedraza
-#
+################################################################
+###########            ROCK-PAPER-SCISSORS           ###########
+###########            by Miguel Pedraza             ###########
+################################################################
+
 # ------------GLOBAL VARIABLES-------------
 
 # List that represents the board in which we play
