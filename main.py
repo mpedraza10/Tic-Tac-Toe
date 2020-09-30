@@ -1,5 +1,5 @@
 ################################################################
-###########            ROCK-PAPER-SCISSORS           ###########
+###########               TIC-TAC-TOE                ###########
 ###########            by Miguel Pedraza             ###########
 ################################################################
 
@@ -30,10 +30,10 @@ def showBoard():
 
 # Function play 
 def play():
-    print("***************************************************")
-    print("*              WELCOME TO TIK-TAC-TOE             *")
-    print("*                by Miguel Pedraza                *")
-    print("***************************************************")
+    print("******************************************************************************************************************")
+    print("*                                            WELCOME TO TIK-TAC-TOE                                              *")
+    print("*                                              by Miguel Pedraza                                                 *")
+    print("******************************************************************************************************************")
     print("")
     print("Instructions: Pick a position from 1-9 in order to place your X or O in the board. Have fun playing with a friend!")
     print("")
